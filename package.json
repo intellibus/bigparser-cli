@@ -2,7 +2,7 @@
   "type": "module",
   "name": "bigparser-cli",
   "version": "1.0.0",
-  "description": "Manage Your Bigparser Accounts Via The Command Line",
+  "description": "Manage Your BigParser Accounts Via The Command Line",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
   "homepage": "https://github.com/intellibus/bigparser-cli#readme",

@@ -1,6 +1,6 @@
 # bigparser-cli
 
-![bigparser-cli — Manage Your Bigparser Accounts Via The Command Line](assets/bigparser-cli.png)
+![bigparser-cli — Manage Your BigParser Accounts Via The Command Line](assets/bigparser-cli.png)
 
 > **THIS PROJECT IS STILL IN THE DESIGN PHASE**
 >
